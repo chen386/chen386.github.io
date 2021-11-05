@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a student. Here is my [CV](https://chen386.github.io/files/cv.pdf).
+I am a PhD student at University of Illinois at Urbana-Champaign, advised by [Prof. Craig Zilles](https://zilles.cs.illinois.edu/) and [Prof. Matthew West](https://lagrange.mechse.illinois.edu/). My research focused on scalable assessments. In particular I studied ways to run asynchronous computerized exams securely, and developed autograders for [Explain-in-plain-English questions](https://chen386.github.io/files/paper_sigcse_2021.pdf). Here is my [CV](https://chen386.github.io/files/cv.pdf).
 
 Publications
 ------
@@ -21,7 +21,7 @@ Max Fowler, Binglin Chen, Sushmita Azad, Matthew West, Craig Zilles. (2021). [Au
 
 Binglin Chen, Sushmita Azad, Max Fowler, Matthew West, Craig Zilles. (2020). [Learning to cheat: quantifying changes in score advantage of unproctored assessments over time.](https://chen386.github.io/files/paper_las_2020.pdf) <i>ACM Conference on Learning at Scale</i>.
 
-Sushmita Azad, Binglin Chen, Maxwell Fowler, Matthew West, and Craig Zilles. (2020). [Strategies for deploying unreliable AI graders in high-transparency high-stakes exams.](https://chen386.github.io/files/paper_aied_2020.pdf) <i>Artificial Intelligence in Education</i>. <b>Nominated for Best Paper</b>.
+Sushmita Azad, Binglin Chen, Max Fowler, Matthew West, and Craig Zilles. (2020). [Strategies for deploying unreliable AI graders in high-transparency high-stakes exams.](https://chen386.github.io/files/paper_aied_2020.pdf) <i>Artificial Intelligence in Education</i>. <b>Nominated for Best Paper</b>.
 
 Binglin Chen, Sushmita Azad, Rajarshi Haldar, Matthew West, and Craig Zilles. (2020). [A validated scoring rubric for Explain-in-Plain-English Questions.](https://chen386.github.io/files/paper_sigcse_2020.pdf) <i>ACM Technical Symposium on Computer Science Education</i>.
 
