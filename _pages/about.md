@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student at University of Illinois at Urbana-Champaign, advised by [Prof. Craig Zilles](https://zilles.cs.illinois.edu/) and [Prof. Matthew West](https://lagrange.mechse.illinois.edu/). My research focused on scalable assessments. In particular I studied ways to run asynchronous computerized exams securely, and developed autograders for [Explain-in-plain-English questions](https://chen386.github.io/files/paper_sigcse_2021.pdf). Here is my [CV](https://chen386.github.io/files/cv.pdf).
+I am a Ph.D. student at University of Illinois at Urbana-Champaign, advised by [Prof. Craig Zilles](https://zilles.cs.illinois.edu/) and [Prof. Matthew West](https://lagrange.mechse.illinois.edu/). My Ph.D. research focuses on <b>statistical analysis and machine learning to facilitate</b> scalable assessments. In particular I studied ways to run asynchronous computerized exams securely, and developed <b>NLP</b> autograders for [Explain-in-plain-English questions](https://chen386.github.io/files/paper_sigcse_2021.pdf). Here is my [CV](https://chen386.github.io/files/cv.pdf).
 
 Publications
 ------
