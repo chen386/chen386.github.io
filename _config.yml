@@ -288,6 +288,3 @@ compress_html:
   clippings: all
   ignore:
     envs: development
-
-atom_feed:
-  hide: true
