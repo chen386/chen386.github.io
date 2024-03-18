@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Postdoctoral Research Associate at University of Illinois at Urbana-Champaign (UIUC), hosted by [Craig Zilles](https://zilles.cs.illinois.edu/). I got my PhD from UIUC, advised by [Craig Zilles](https://zilles.cs.illinois.edu/) and [Matthew West](https://lagrange.mechse.illinois.edu/). My research focuses on <b>statistical analysis and artificial intelligence to facilitate</b> scalable assessments. In particular I studied ways to run asynchronous computerized exams securely, and developed <b>NLP</b> autograders for [Explain-in-plain-English questions](https://chen386.github.io/files/paper_sigcse_2021.pdf). Here is my [CV](https://chen386.github.io/files/cv.pdf).
+I am a Postdoctoral Research Associate at University of Illinois at Urbana-Champaign (UIUC), hosted by [Craig Zilles](https://zilles.cs.illinois.edu/). I got my PhD from UIUC, advised by [Craig Zilles](https://zilles.cs.illinois.edu/) and [Matthew West](https://lagrange.mechse.illinois.edu/). My research focuses on statistical analysis and artificial intelligence to facilitate scalable assessments. In particular I studied ways to run asynchronous computerized exams securely, and developed NLP based autograders for [Explain-in-plain-English questions](https://chen386.github.io/files/paper_sigcse_2021.pdf). Here is my [CV](https://chen386.github.io/files/cv.pdf).
 
 Publications
 ------
