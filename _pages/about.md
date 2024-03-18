@@ -8,12 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. student at University of Illinois at Urbana-Champaign, advised by [Prof. Craig Zilles](https://zilles.cs.illinois.edu/) and [Prof. Matthew West](https://lagrange.mechse.illinois.edu/). My Ph.D. research focuses on <b>statistical analysis and machine learning to facilitate</b> scalable assessments. In particular I studied ways to run asynchronous computerized exams securely, and developed <b>NLP</b> autograders for [Explain-in-plain-English questions](https://chen386.github.io/files/paper_sigcse_2021.pdf). Here is my [CV](https://chen386.github.io/files/cv.pdf).
+I am a Postdoctoral Research Associate at University of Illinois at Urbana-Champaign (UIUC), hosted by [Craig Zilles](https://zilles.cs.illinois.edu/). I got my PhD from UIUC, advised by [Craig Zilles](https://zilles.cs.illinois.edu/) and [Matthew West](https://lagrange.mechse.illinois.edu/). My research focuses on <b>statistical analysis and artificial intelligence to facilitate</b> scalable assessments. In particular I studied ways to run asynchronous computerized exams securely, and developed <b>NLP</b> autograders for [Explain-in-plain-English questions](https://chen386.github.io/files/paper_sigcse_2021.pdf). Here is my [CV](https://chen386.github.io/files/cv.pdf).
 
 Publications
 ------
 
+Max Fowler, David Smith, Binglin Chen, Craig Zilles. (2023). [``I Don’t Gamble To Make My Livelihood'': Understanding the Incentives For, Needs Of, and Motivations Surrounding Open Educational Resources in Computing](https://chen386.github.io/files/paper_icer_2023.pdf) <i>ACM Conference on International Computing Education Research</i>.
 
+Binglin Chen, Matthew West, and Craig Zilles. (2022). [Peer-grading ``Explain in Plain English'' Questions: A Bayesian Calibration Method for Categorical Answers](https://chen386.github.io/files/paper_sigcse_2022.pdf) <i>ACM Technical Symposium on Computer Science Education</i>.
 
 Max Fowler, Binglin Chen, Craig Zilles. (2021). [How should we `Explain in plain English'? Voices from the community.](https://chen386.github.io/files/paper_icer_2021.pdf) <i>ACM Conference on International Computing Education Research</i>.
 
