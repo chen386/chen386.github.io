@@ -13,6 +13,8 @@ I am a Postdoctoral Research Associate at University of Illinois at Urbana-Champ
 Publications
 ------
 
+Binglin Chen, Colleen M. Lewis, Matthew West, and Craig Zilles. (2024). [Plagiarism in the Age of Generative AI: Cheating Method Change and Learning Loss in an Intro to CS Course](https://chen386.github.io/files/paper_las_2024.pdf) <i>ACM Conference on Learning at Scale</i>.
+
 Max Fowler, David Smith, Binglin Chen, Craig Zilles. (2023). [``I Don’t Gamble To Make My Livelihood'': Understanding the Incentives For, Needs Of, and Motivations Surrounding Open Educational Resources in Computing](https://chen386.github.io/files/paper_icer_2023.pdf) <i>ACM Conference on International Computing Education Research</i>.
 
 Binglin Chen, Matthew West, and Craig Zilles. (2022). [Peer-grading ``Explain in Plain English'' Questions: A Bayesian Calibration Method for Categorical Answers](https://chen386.github.io/files/paper_sigcse_2022.pdf) <i>ACM Technical Symposium on Computer Science Education</i>.
